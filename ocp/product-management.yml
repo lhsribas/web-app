@@ -138,7 +138,7 @@ items:
     runPolicy: Serial
     source:
       git:
-        uri: https://github.com/mgohashi/partner-frontend.git
+        uri: https://github.com/lhsribas/web-app.git
       type: Git
     strategy:
       sourceStrategy:
